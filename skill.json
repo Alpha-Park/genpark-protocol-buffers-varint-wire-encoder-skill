@@ -1,0 +1,17 @@
+{
+  "name": "genpark-protocol-buffers-varint-wire-encoder-skill",
+  "version": "1.0.0",
+  "description": "Protocol Buffers (protobuf) binary wire format encoder/decoder supporting variable-length zigzag integers, wire tags, and length-delimited payloads.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "protobuf",
+    "varint",
+    "wire-format",
+    "binary-serialization",
+    "data-interchange"
+  ],
+  "dependencies": []
+}
